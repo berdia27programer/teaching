@@ -68,3 +68,38 @@
 # age = 12
 
 # print(age + 1)
+
+# string - სიტყვა ბრჭყალებში
+
+# print("hello")
+
+# # Integer - მთელი რიცხვი
+
+# print(50)
+
+# # float - ათწილადი
+
+# print(2.5)
+
+# # ცვლადები - variables
+
+# # სახ.  მნიშ.
+# name = "Berdia"
+# name = "Archil"
+
+# print(name)
+
+# # Type function
+
+# print(type("hello"))
+# print(type(50))
+# print(type(2.5))
+
+# # str, int, floats
+
+# print(type(str(25)))
+# print(type(25))
+# print(type(int("25")))
+# print(type(float(25)))
+
+# print(int("hello")) # Error

@@ -373,3 +373,13 @@
 # print(len(animals))
 
 # print("berdia"[::-1])
+
+# nums = [1, 2, 3, 4, 5]
+
+# insert
+
+# print(nums.insert(3, 6)) # [1, 2, 3, 6, 4, 5]
+
+# # append
+
+# print(nums.append(7)) # [1, 2, 3, 4, 5, 7]

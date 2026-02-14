@@ -383,3 +383,24 @@
 # # append
 
 # print(nums.append(7)) # [1, 2, 3, 4, 5, 7]
+
+# num1 = 5
+# num2 = 10
+
+# if num1 > num2:
+#     print("num1 greater then num2")
+# elif num1 == num2 : # elif - else if
+#     print("num1 = num2")
+# else:
+#     print("num2 greater then num1")
+
+# მომხარებელს შემოატანინეთ რიცხვი, დაა შემდეგ თუ ნაკლებია 18 ზე, დაპრინტეთ "kid" სხვა შემთხვევაში თუ  უდრის 15 ს დაპრინტეთ "15" სხვა შემთხვევაში დაპრინტეთ "zangebi"
+
+# age = int(input("Enter your age: "))
+
+# if age < 18:
+#     print("kid")
+# elif age == 15:
+#     print("15")
+# else:
+#     print("zangebi")

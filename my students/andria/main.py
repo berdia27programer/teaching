@@ -71,3 +71,16 @@
 # print(x / y) # float: 2.5
 # print(x // y) # int: 2
 # print(x % y) # 0
+
+# num1 = 10
+# num2 = 2
+
+# print(num1 + num2)
+# print(num1 - num2)
+# print(num1 * num2)
+# print(num1 / num2)
+
+# num = 5
+# name = "berdia"
+
+# print(num * name)

@@ -29,3 +29,7 @@
 # float3 = 3.5
 # float4 = 4.5
 # float5 = 5.5
+
+# name = "giorgi"
+
+# print(name)

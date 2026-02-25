@@ -33,3 +33,9 @@
 # name = "giorgi"
 
 # print(name)
+
+# snake case
+
+# my_name = "berdia"
+
+# print(my_name)

@@ -404,3 +404,11 @@
 #     print("15")
 # else:
 #     print("zangebi")
+
+# array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# num = int(input("Enter a number from 0-10: "))
+
+# if num > 10:
+#     print("there is no index")
+
+# print(array[num - 1])

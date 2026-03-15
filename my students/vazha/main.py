@@ -18,3 +18,8 @@
 # else:
 #     print("negative")
 
+# print("asdasldjk")
+
+# name = input("Enter your name: ") # berdia
+
+# print("Hello", name) # hello, berdia(name)

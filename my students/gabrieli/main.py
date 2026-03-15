@@ -421,3 +421,25 @@
 # print(nums[1]) # 2
 # print(nums[-1]) # 10
 # print(nums[-9])
+
+# word = "HeLlO"
+
+# print(word.capitalize()) # Hello
+# print(word.upper()) # HELLO
+# print(word.lower()) # hello
+
+# word = "hIiI"
+
+# num = int(input("enter your number: "))
+
+# if num > 5:
+#     print(word.capitalize())
+# elif num == 5:
+#     print(word.upper())
+# else:
+#     print(word.lower())
+
+# name = "berdia"
+
+# print(name.capitalize())
+# print(name.upper())

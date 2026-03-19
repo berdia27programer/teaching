@@ -84,3 +84,13 @@
 # name = "berdia"
 
 # print(num * name)
+
+# print(5 > 2)
+# print(1 > 0)
+# print(2 > 1)
+# print(5 < 2)
+# print(1 < 0)
+
+# age = int(input("Enter your age: "))
+
+# print(age > 18)

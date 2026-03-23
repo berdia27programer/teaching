@@ -33,3 +33,32 @@
 # name = "giorgi"
 
 # print(name)
+
+# str, int, float
+
+# boolean
+
+# True
+# False
+
+# print(10 > 5)
+
+# print(True and False)
+# print(True or False)
+# print(True and not False)
+# print(True or not False)
+
+# print(10 > 5)
+# print(5 < 10)
+# print(6 > 2)
+# print(2 < 6)
+# print(5 > 4)
+# print(10 < 5)
+# print(5 > 10)
+# print(6 < 2)
+# print(2 < 6)
+# print(5 < 4)
+
+                    # True       and           # True          and                 # True
+      # True                    # False                      # True                         # True
+# print((True and not False) or (False and True) or (not (False or False) and True) and (True or not (False and True)))

@@ -62,3 +62,4 @@
                     # True       and           # True          and                 # True
       # True                    # False                      # True                         # True
 # print((True and not False) or (False and True) or (not (False or False) and True) and (True or not (False and True)))
+

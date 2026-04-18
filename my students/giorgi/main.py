@@ -63,3 +63,20 @@
       # True                    # False                      # True                         # True
 # print((True and not False) or (False and True) or (not (False or False) and True) and (True or not (False and True)))
 
+# i = 1
+# print(i)
+# i = 2
+# print(i)
+# ...
+
+# for i in range(1, 101):
+#     print("hello")
+
+# password = "berdia123"
+# enter_password = input("Enter your password: ")
+
+# while enter_password != password:
+#       print("incorrect password")
+#       enter_password = input("Enter your password: ")
+
+# print("Logged succesfully!")

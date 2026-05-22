@@ -80,3 +80,24 @@
 #       enter_password = input("Enter your password: ")
 
 # print("Logged succesfully!")
+
+# if - თუ
+# elif - else if - სხვაშემთხვევაში თუ
+# else - სხვაშემთხვევაში
+
+# age = int(input("Enter your age: "))
+
+# if age == 13 or age > 13 and age < 18:
+#     print("You are teenager")
+# elif age >= 18:
+#     print("You are an adult")
+# else:
+#     print("You are a child")
+
+# product_price = 15
+# money = int(input("Enter your money: "))
+
+# if money >= product_price:
+#     print("You can buy this product")
+# else:
+#     print("Not enough money")

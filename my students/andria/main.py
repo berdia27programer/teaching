@@ -108,3 +108,58 @@
 # 1. and
 # 2. or
 # 3. not
+
+# while 1>5:
+#     print("123")
+
+# i = 0
+
+# while i < 16:
+#     print(i)
+#     i += 1
+
+# for i in range(16): 
+#        print(i)
+
+# print("asdjhkasdh")
+
+# print(5)
+
+print(5 + 5)
+print("asd" + "asd")
+print("asd" + 5) # Error
+
+# ashjdjkashdkasdjk
+
+# print("berdia")
+
+# name = "berdia"
+
+# print(name)
+
+# print("berdia") # String
+# print(5) # integer
+# print(2.5) # float
+
+# print("Enter your name: ")
+
+# name = input("Enter your name: ")
+
+# print(name)
+
+# Car = "mercedes"
+# car = "bmw"
+
+# print(Car)
+
+# my_name = "berdia" # snake case
+# Age = 13 # camel case
+
+# i = 1
+
+# while i < 26:
+#     print(i)
+#     i += 2
+
+# for i in range(10):
+#     print(i)

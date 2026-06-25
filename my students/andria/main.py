@@ -125,9 +125,9 @@
 
 # print(5)
 
-print(5 + 5)
-print("asd" + "asd")
-print("asd" + 5) # Error
+# print(5 + 5)
+# print("asd" + "asd")
+# print("asd" + 5) # Error
 
 # ashjdjkashdkasdjk
 
@@ -163,3 +163,9 @@ print("asd" + 5) # Error
 
 # for i in range(10):
 #     print(i)
+
+# from turtle import *
+
+# forward(200)
+
+# exitonclick()

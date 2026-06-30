@@ -23,3 +23,20 @@
 # name = input("Enter your name: ") # berdia
 
 # print("Hello", name) # hello, berdia(name)
+
+# animals = ["cat", "dog", "frog", "cow", "chicken"]
+
+# print(animals[0]) # index
+
+# print(animals[1:4]) # slicing
+
+# index - გამოიტანს ერთ ელემენტს
+
+# slicing - გამოიტანს რამოდენიმე ელემენტს
+
+# st = მნიშ.
+
+# def greet(st):
+#     print("Hello", st)
+
+# greet("berdia")

@@ -32,3 +32,26 @@
 //     console.log(false)
 // }
 
+const btn = document.getElementById("btn")
+
+const data = []
+
+const signup = e => {
+    e.preventDefault()
+
+    const username = document.getElementById("username").value;
+    const password = document.getElementById("password").value;
+
+    if (username === "" || password === "") {
+        alert("Enter all inputs")
+    }
+
+    data.push({
+        Username: username,
+        Password: password
+    })
+
+    localStorage.setItem(database, data) // const database = data
+}
+
+btn.onclick = signup

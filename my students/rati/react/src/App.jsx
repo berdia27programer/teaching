@@ -6,11 +6,11 @@ export default function App() {
 
   return (
     <div>
-      <h1>Sign up</h1>
+      <h1 class=" text-4xl">Sign up</h1>
       <form>
-          <input name="name" type="text" placeholder="enter your name" />
+          <input name="name" class=" bg-red-600 text-white" type="text" placeholder="enter your name" />
           <br />
-          <input name="password" type="password" placeholder="Create a password" />
+          <input name="password" class=" bg-blue-600 text-white" type="password" placeholder="Create a password" />
           <button>submit</button>
       </form>
       <p>name: {name}</p>

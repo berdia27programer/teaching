@@ -182,3 +182,5 @@
 
 # greet("world")
 # greet("Berdia")
+
+# print(ord("a")) # 97 - 96 = 1

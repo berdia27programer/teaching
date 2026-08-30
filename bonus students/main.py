@@ -175,3 +175,36 @@
 # name = "berdia"
 
 # print(name)
+
+name = "berdia"
+
+print(5 > 10) # False
+print(5 < 10) # True
+print(5 == 5) # True
+
+# <= - ნაკლებია ან ტოლია
+# >= - მეტია ან ტოლია
+
+print(5 <= 10) # True
+print(5 >= 10) # False
+print(5 >= 5) # True
+
+# and - "და"
+# or - "ან"
+# not - "არ"
+
+# print(True and False) # false
+# print(False and True) # false
+# print(True and True) # True
+# print(False and False) # false
+
+# #     >        =
+# print(True or False) # True
+# print(False or True) # True
+
+# print(True or True) # True
+# print(False or False) # False
+
+
+# while 1 > 5:
+#     print("hello")

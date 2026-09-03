@@ -1,4 +1,7 @@
 const express = require("express")
+const dotenv = require('dotenv')
+
+dotenv.config()
 
 const app = express()
 
@@ -30,6 +33,8 @@ app.patch("/profile", (req, res) => {
     res.send("Change your profile").statusCode(201)
 })
 
+
+
 app.listen(() => {
-    console.log("Server started on port 3000")
-}, 3000)
+    console.log(`Server started on port ${process.env.PORT}`)
+}, process.env.PORT)

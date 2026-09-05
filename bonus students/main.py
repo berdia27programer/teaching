@@ -176,18 +176,18 @@
 
 # print(name)
 
-name = "berdia"
+# name = "berdia"
 
-print(5 > 10) # False
-print(5 < 10) # True
-print(5 == 5) # True
+# print(5 > 10) # False
+# print(5 < 10) # True
+# print(5 == 5) # True
 
-# <= - ნაკლებია ან ტოლია
-# >= - მეტია ან ტოლია
+# # <= - ნაკლებია ან ტოლია
+# # >= - მეტია ან ტოლია
 
-print(5 <= 10) # True
-print(5 >= 10) # False
-print(5 >= 5) # True
+# print(5 <= 10) # True
+# print(5 >= 10) # False
+# print(5 >= 5) # True
 
 # and - "და"
 # or - "ან"

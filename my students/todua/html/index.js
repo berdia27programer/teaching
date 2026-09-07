@@ -17,6 +17,7 @@
 
 // import React from "react"
 // import createRoot from "react-dom/client"
+// import Component from "./index2"
 
 // const container = document.getElementById("app")
 // const root = createRoot(container)
@@ -45,6 +46,11 @@
 // root.render(<img src={cars.car2} />)
 // root.render(<img src={cars.car3} />)
 
+// root.render(<Component />)
+// root.render(Component)
+// root.render(<Component></Component>)
+// root.render(Component())
+
 // render - რაღაცა ელემენტის გამოტანა
 
 // import React from 'react';
@@ -68,6 +74,11 @@
 //     pi,
 //     document.getElementById('app')
 // );
+
+// ReactDOM.render(
+//     Component,
+//     document.getElementById("client")
+// )
 
 // 3.14161482745982298735491
 

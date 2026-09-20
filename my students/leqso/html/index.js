@@ -32,3 +32,14 @@
 // const name = "berdia"
 
 // console.log(`hello ${name}`)
+
+// const num1 = Number(prompt("Enter a number:"))
+// const num2 = Number(prompt("Enter a second number:"))
+
+// if (num1 > num2) {
+//     console.log("first number is greater then second")
+// } else {
+//     console.log("second number is greater then first")
+// }
+
+// console.log(num1 > num2 ? "first number is greater then second" : "second number is greater then first")
